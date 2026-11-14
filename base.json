@@ -1,0 +1,392 @@
+{
+  "projeto": "Citizen Assist AI",
+  "descricao": "Base introdutória de orientações cidadãs com referências oficiais. As informações devem ser confirmadas no órgão responsável antes de qualquer decisão.",
+  "data_verificacao": "2026-11-14",
+  "orientacoes": [
+    {
+      "id": "DOC001",
+      "tema": "Documentação",
+      "subtema": "Conta gov.br",
+      "pergunta": "Como criar uma conta gov.br?",
+      "palavras_chave": [
+        "conta gov br",
+        "cadastro gov",
+        "login governo",
+        "senha gov",
+        "acesso digital"
+      ],
+      "orientacao": "A conta gov.br pode ser criada pelo portal ou aplicativo oficial. Informe o CPF e siga as etapas apresentadas. Alguns serviços exigem nível de segurança Prata ou Ouro; consulte as opções de validação no próprio aplicativo.",
+      "referencia": "Criar sua conta GOV.BR — Governo Federal",
+      "url": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "DOC002",
+      "tema": "Documentação",
+      "subtema": "Recuperação de conta",
+      "pergunta": "Como recuperar a senha da conta gov.br?",
+      "palavras_chave": [
+        "esqueci senha gov",
+        "recuperar senha",
+        "perdi acesso gov br",
+        "senha bloqueada"
+      ],
+      "orientacao": "Na tela de acesso, informe o CPF e escolha a opção de recuperação de senha. O sistema pode oferecer reconhecimento facial, validação por banco, e-mail ou celular, conforme os dados disponíveis na conta.",
+      "referencia": "Recuperar senha da conta gov.br — Governo Digital",
+      "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "DOC003",
+      "tema": "Documentação",
+      "subtema": "CPF",
+      "pergunta": "Como solicitar inscrição no CPF?",
+      "palavras_chave": [
+        "fazer cpf",
+        "tirar cpf",
+        "inscrição cpf",
+        "cadastro pessoa física",
+        "receita federal",
+        "tirar cpf",
+        "quero cpf",
+        "cpf onde fazer"
+      ],
+      "orientacao": "A inscrição no CPF é um serviço da Receita Federal. Consulte a página oficial para verificar o canal adequado, os documentos exigidos e se o atendimento poderá ser feito pela internet ou presencialmente.",
+      "referencia": "Inscrever cidadão no Cadastro de Pessoas Físicas (CPF) — Receita Federal",
+      "url": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "DOC004",
+      "tema": "Documentação",
+      "subtema": "Carteira de Identidade Nacional",
+      "pergunta": "Onde emitir a Carteira de Identidade Nacional (CIN)?",
+      "palavras_chave": [
+        "novo rg",
+        "identidade",
+        "cin",
+        "carteira identidade",
+        "segunda via rg"
+      ],
+      "orientacao": "A emissão da CIN é realizada pelos órgãos de identificação civil dos estados e do Distrito Federal. Consulte o canal do seu estado para agendamento e confirme a documentação; a certidão de nascimento ou casamento é indicada nas orientações oficiais.",
+      "referencia": "Carteira de Identidade Nacional — Governo Digital",
+      "url": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "DOC005",
+      "tema": "Documentação",
+      "subtema": "Passaporte",
+      "pergunta": "Quais documentos são necessários para solicitar passaporte brasileiro?",
+      "palavras_chave": [
+        "tirar passaporte",
+        "documentos passaporte",
+        "viagem exterior",
+        "polícia federal passaporte"
+      ],
+      "orientacao": "A Polícia Federal mantém uma lista de documentação para solicitação de passaporte. A lista inclui CPF válido e pode variar conforme a situação do solicitante. Confira a página oficial antes de agendar e comparecer ao atendimento.",
+      "referencia": "Documentação necessária — Polícia Federal",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/passaporte/documentacao/lista-brasileiro",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "DOC006",
+      "tema": "Documentação",
+      "subtema": "Título de eleitor",
+      "pergunta": "Como consultar ou regularizar o título de eleitor?",
+      "palavras_chave": [
+        "título eleitor",
+        "e-título",
+        "situação eleitoral",
+        "regularizar eleitor",
+        "justiça eleitoral"
+      ],
+      "orientacao": "Consulte a situação eleitoral e os serviços disponíveis nos canais oficiais da Justiça Eleitoral. Prazos, exigências e disponibilidade de serviços podem variar conforme o calendário eleitoral.",
+      "referencia": "Autoatendimento Eleitoral — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "SER001",
+      "tema": "Serviços",
+      "subtema": "Cadastro Único",
+      "pergunta": "Como fazer ou atualizar o Cadastro Único?",
+      "palavras_chave": [
+        "cadunico",
+        "cadastro único",
+        "cras cadastro",
+        "atualizar cadastro social",
+        "programas sociais"
+      ],
+      "orientacao": "O Cadastro Único é gratuito e realizado presencialmente em um posto municipal, como o CRAS ou posto de cadastramento. Em geral, o responsável familiar deve levar CPF dos integrantes, documento de identificação e comprovante de residência, se houver. Atualize os dados quando houver mudanças e, mesmo sem mudanças, observe o prazo de atualização indicado pelo serviço.",
+      "referencia": "Cadastro Único — Ministério do Desenvolvimento e Assistência Social",
+      "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/Cadastro-unico/",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "SER002",
+      "tema": "Serviços",
+      "subtema": "Bolsa Família",
+      "pergunta": "Como saber se tenho direito ao Bolsa Família?",
+      "palavras_chave": [
+        "bolsa família",
+        "benefício social",
+        "receber auxílio",
+        "renda por pessoa",
+        "pagamento bolsa família"
+      ],
+      "orientacao": "A inscrição no Cadastro Único não garante entrada automática no Bolsa Família. A seleção depende dos critérios e procedimentos oficiais do programa. Consulte as regras atualizadas no Ministério do Desenvolvimento e Assistência Social e mantenha o Cadastro Único atualizado.",
+      "referencia": "Conheça as Regras do Bolsa Família — Ministério do Desenvolvimento e Assistência Social",
+      "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia/paginas/conheca-as-regras",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "SER003",
+      "tema": "Serviços",
+      "subtema": "Seguro-desemprego",
+      "pergunta": "Como solicitar o seguro-desemprego?",
+      "palavras_chave": [
+        "fui demitido",
+        "seguro desemprego",
+        "benefício desemprego",
+        "carteira trabalho digital",
+        "158"
+      ],
+      "orientacao": "O pedido pode ser feito pelo Portal de Serviços do Governo ou pelo aplicativo Carteira de Trabalho Digital. A página oficial informa os requisitos, documentos e canais de atendimento; em caso de dúvida, também indica o telefone 158.",
+      "referencia": "Solicitar o Seguro-Desemprego — Governo Federal",
+      "url": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "SER004",
+      "tema": "Serviços",
+      "subtema": "Cartão Nacional de Saúde",
+      "pergunta": "Como conseguir ou consultar o Cartão SUS?",
+      "palavras_chave": [
+        "cartão sus",
+        "cns",
+        "cartão nacional saúde",
+        "meu sus digital",
+        "número sus"
+      ],
+      "orientacao": "O Cartão Nacional de Saúde pode ser apresentado em formato digital no Meu SUS Digital. Para solicitar um novo cartão, corrigir dados ou obter impressão, procure um estabelecimento de saúde do município e confirme quais documentos levar.",
+      "referencia": "Meu SUS Digital — Perguntas e respostas para o cidadão — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "SER005",
+      "tema": "Serviços",
+      "subtema": "Atendimento do INSS",
+      "pergunta": "Como consultar serviços e benefícios do INSS?",
+      "palavras_chave": [
+        "inss",
+        "aposentadoria",
+        "benefício previdenciário",
+        "meu inss",
+        "extrato inss"
+      ],
+      "orientacao": "Os serviços digitais do INSS podem ser consultados pelo Meu INSS, com acesso pela conta gov.br. Confira no portal os requisitos específicos de cada benefício e use os canais oficiais para acompanhar solicitações.",
+      "referencia": "Meu INSS — Instituto Nacional do Seguro Social",
+      "url": "https://meu.inss.gov.br/",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "SER006",
+      "tema": "Serviços",
+      "subtema": "Defesa do consumidor",
+      "pergunta": "Como registrar uma reclamação contra uma empresa?",
+      "palavras_chave": [
+        "reclamar empresa",
+        "consumidor",
+        "compra problema",
+        "produto defeito",
+        "consumidor.gov"
+      ],
+      "orientacao": "O consumidor pode verificar se a empresa participa da plataforma Consumidor.gov.br e registrar uma reclamação por lá. Se a empresa não estiver disponível ou o caso exigir outro procedimento, procure o Procon de seu estado ou município.",
+      "referencia": "Consumidor.gov.br — Secretaria Nacional do Consumidor",
+      "url": "https://www.consumidor.gov.br/",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "COM001",
+      "tema": "Orientações comunitárias",
+      "subtema": "CRAS",
+      "pergunta": "Para que serve o CRAS e onde buscar atendimento?",
+      "palavras_chave": [
+        "cras",
+        "assistência social",
+        "vulnerabilidade",
+        "serviço social",
+        "atendimento social"
+      ],
+      "orientacao": "O CRAS é uma unidade pública de assistência social que atende famílias e indivíduos em seu território. Para localizar o atendimento adequado, consulte a prefeitura ou a Secretaria Municipal de Assistência Social; serviços e horários dependem do município.",
+      "referencia": "CRAS — Ministério do Desenvolvimento e Assistência Social",
+      "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/suas/unidades-de-atendimento/cras",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "COM002",
+      "tema": "Orientações comunitárias",
+      "subtema": "Emergência policial",
+      "pergunta": "Qual número chamar em uma emergência policial?",
+      "palavras_chave": [
+        "polícia",
+        "emergência policial",
+        "crime acontecendo",
+        "190",
+        "segurança pública"
+      ],
+      "orientacao": "Em uma emergência policial, ligue 190. Informe de forma objetiva o que está acontecendo e onde ocorre. Não use esse canal para consultas não urgentes.",
+      "referencia": "Serviço de emergência 190 — Polícia Militar (canal nacional de emergência)",
+      "url": "https://www.gov.br/pt-br/servicos/acionar-emergencia-policial",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "COM003",
+      "tema": "Orientações comunitárias",
+      "subtema": "Emergência médica",
+      "pergunta": "Quando chamar o SAMU?",
+      "palavras_chave": [
+        "samu",
+        "192",
+        "emergência médica",
+        "urgência saúde",
+        "ambulância"
+      ],
+      "orientacao": "Em situações de urgência ou emergência médica, o SAMU pode ser acionado pelo número 192. A central orienta o atendimento e avalia o envio de equipe conforme as informações fornecidas.",
+      "referencia": "SAMU 192 — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "COM004",
+      "tema": "Orientações comunitárias",
+      "subtema": "Violência contra a mulher",
+      "pergunta": "Onde buscar orientação em caso de violência contra a mulher?",
+      "palavras_chave": [
+        "violência mulher",
+        "disque 180",
+        "central mulher",
+        "agressão doméstica",
+        "denúncia mulher"
+      ],
+      "orientacao": "A Central de Atendimento à Mulher — Ligue 180 — oferece orientação e recebe denúncias de violência contra mulheres. Em situação de perigo imediato, procure um local seguro e acione a emergência policial pelo 190.",
+      "referencia": "Central de Atendimento à Mulher — Ligue 180 — Ministério das Mulheres",
+      "url": "https://www.gov.br/mulheres/pt-br/ligue180",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    },
+    {
+      "id": "COM005",
+      "tema": "Orientações comunitárias",
+      "subtema": "Violações de direitos humanos",
+      "pergunta": "Como denunciar violações de direitos humanos?",
+      "palavras_chave": [
+        "disque 100",
+        "direitos humanos",
+        "violação direitos",
+        "denunciar abuso",
+        "denúncia"
+      ],
+      "orientacao": "O Disque 100 é um canal nacional para registrar denúncias de violações de direitos humanos. Consulte a página oficial para conhecer os canais disponíveis e as orientações para o registro. Em risco imediato, acione o serviço de emergência adequado.",
+      "referencia": "Disque 100 — Ministério dos Direitos Humanos e da Cidadania",
+      "url": "https://www.gov.br/mdh/pt-br/ondh",
+      "data_verificacao": "2026-11-14",
+      "confirmacao_adicional": true
+    }
+  ],
+  "navegacao": {
+    "Documentação": [
+      "Serviços"
+    ],
+    "Serviços": [
+      "Documentação",
+      "Orientações comunitárias"
+    ],
+    "Orientações comunitárias": [
+      "Serviços"
+    ]
+  },
+  "prompts": {
+    "modelo_1_direto": "Você é um assistente introdutório de orientação cidadã. Responda apenas com informações presentes no registro selecionado. Use linguagem simples, cite o nome e o link da fonte e avise que requisitos podem mudar. Se o registro não responder à pergunta, declare a limitação.",
+    "modelo_2_estruturado": "Papel: assistente de orientação cidadã, não oficial. Tarefa: resumir somente o conteúdo do registro recuperado. Formato obrigatório: Orientação; Próximo passo; Fonte (nome e URL); Limite/necessidade de confirmação. Não invente requisitos, prazos, direitos ou contatos. Se não houver correspondência suficiente, não responda como se soubesse."
+  },
+  "perguntas_teste": [
+    {
+      "pergunta": "Como faço uma conta gov.br?",
+      "esperado": "DOC001"
+    },
+    {
+      "pergunta": "Esqueci minha senha do gov.br, como recuperar?",
+      "esperado": "DOC002"
+    },
+    {
+      "pergunta": "Quero tirar meu CPF. Onde começo?",
+      "esperado": "DOC003"
+    },
+    {
+      "pergunta": "Onde faço a nova identidade CIN?",
+      "esperado": "DOC004"
+    },
+    {
+      "pergunta": "Quais documentos preciso para passaporte?",
+      "esperado": "DOC005"
+    },
+    {
+      "pergunta": "Como regularizar meu título de eleitor?",
+      "esperado": "DOC006"
+    },
+    {
+      "pergunta": "Como atualizar o CadÚnico?",
+      "esperado": "SER001"
+    },
+    {
+      "pergunta": "Tenho direito ao Bolsa Família?",
+      "esperado": "SER002"
+    },
+    {
+      "pergunta": "Fui demitido, como peço seguro-desemprego?",
+      "esperado": "SER003"
+    },
+    {
+      "pergunta": "Como consigo o cartão SUS?",
+      "esperado": "SER004"
+    },
+    {
+      "pergunta": "Preciso reclamar de uma compra, onde vou?",
+      "esperado": "SER006"
+    },
+    {
+      "pergunta": "Qual número do SAMU?",
+      "esperado": "COM003"
+    },
+    {
+      "pergunta": "",
+      "esperado": null
+    },
+    {
+      "pergunta": "Preciso de ajuda com um assunto muito específico que não está explicado aqui.",
+      "esperado": null
+    },
+    {
+      "pergunta": "Quero resolver um problema. O que faço?",
+      "esperado": null
+    }
+  ]
+}
